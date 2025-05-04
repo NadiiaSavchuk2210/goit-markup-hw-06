@@ -967,7 +967,7 @@ button:focus {
   pointer-events: none;
   transition: opacity var(--transition-base), visibility var(--transition-base);
 
-  background-color: var(--overlay-color);
+  background-color: var(--blue-light-color);
 }
 
 .modal-overlay.is-open {
